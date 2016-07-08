@@ -4,6 +4,11 @@
 	"version":"0.0.1",
 	"description":"Censura al maximo aqui",
 	"main":"censortext",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/aztekinetix/censorify"
+	}
+	"keywords":["censor","words"],
 	"dependencies":{},
 	"engines":{
 		"node":"*"
