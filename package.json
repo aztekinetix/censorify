@@ -1,0 +1,11 @@
+{
+	"author":"Daniel Ruiz",
+	"name":"Censorify",
+	"version":"0.0.1",
+	"description":"Censura al maximo aqui",
+	"main":"censortext",
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
